@@ -300,4 +300,4 @@ To **STOP** the server, use:
 That's it.
 
 ---
-*Created by **Rodolpho Pivetta Sabino** *
+*Created by Rodolpho Pivetta Sabino*
