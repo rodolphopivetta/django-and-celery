@@ -195,7 +195,7 @@ The tree of all project will be like:
 
 Start Django project to create tasks in admin page.
 
-*In **manage.py** file level*
+In **manage.py** file level
 ```bash
 ./manage runserver
 ```
