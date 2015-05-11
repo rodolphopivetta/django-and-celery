@@ -26,7 +26,7 @@ virtualenv venv_tutorial --no-site-packages
 souce venv_tutorial/bin/activate
 
 # install django
-pip install django
+pip install django==1.8.1
 
 # deactivate virtual python environments 
 deactivate
@@ -53,7 +53,7 @@ When the command completes the broker is already running in the background, read
 souce venv_tutorial/bin/activate
 
 # installing celery and django celery app
-pip install celery django-celery
+pip install celery==3.1.18 django-celery==3.1.16
 ```
 
 
@@ -258,7 +258,7 @@ For example:
 
 ```bash
 # install supervisor to django app
-pip install django-supervisor
+pip install django-supervisor==0.3.2
 ```
 
 In the **settings.py** file, add:

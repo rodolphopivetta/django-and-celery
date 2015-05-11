@@ -2,3 +2,4 @@
 *.sqlite3
 *.log
 migrations
+venv_tutorial
